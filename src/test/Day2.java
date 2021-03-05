@@ -8,6 +8,7 @@ public class Day2 {
 	public void loan()
 	{
 		System.out.println("Take a loan");
+		System.out.println("don't take loan");
 	}
 
 }

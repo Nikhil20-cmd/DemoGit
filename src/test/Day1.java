@@ -2,6 +2,7 @@ package test;
 
 import org.testng.annotations.Test;
 
+
 public class Day1 {
 	
 	@Test
@@ -15,7 +16,7 @@ public class Day1 {
 	public void seconddemo()
 	{
 		System.out.println("Hello");
-		
+		System.out.println("Helllo Dugu");
 	}
 
 }
