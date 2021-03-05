@@ -18,5 +18,10 @@ public class Day1 {
 		System.out.println("Hello");
 		System.out.println("Helllo Dugu");
 	}
-
+	@Test
+	public void thirddemo()
+	{
+		System.out.println("Hello");
+		System.out.println("Helllo Dugu");
+	}
 }
